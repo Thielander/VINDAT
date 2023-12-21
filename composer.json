@@ -1,0 +1,16 @@
+{
+    "name": "thielander/vindat",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Thielander\\Vindat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Thiele",
+            "email": "mail@alexanderthiele.de"
+        }
+    ],
+    "require": {}
+}
