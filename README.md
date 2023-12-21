@@ -1,5 +1,5 @@
 
-# Thielader Vindat
+# Thielander Vindat
 
 The `thielader/vindat` package provides a streamlined integration with DAT Group's vehicle data services. This package simplifies interactions with various SOAP-based web services offered by DAT Group, focusing primarily on VIN (Vehicle Identification Number) queries.
 
