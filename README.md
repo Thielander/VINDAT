@@ -14,7 +14,8 @@ The `thielander/vindat` package provides a streamlined integration with DAT Grou
 Install the package via Composer:
 
 ```bash
-composer require thielander/vindat
+composer require thielander/vindat:dev-main
+
 ```
 
 ## Usage
