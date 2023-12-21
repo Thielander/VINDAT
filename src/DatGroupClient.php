@@ -111,11 +111,6 @@ class DatGroupClient
             return false;
         }
 
-        return true;
-    }
-
-    public function getResponse()
-    {
         return $this->response_vehicle;
     }
 }
