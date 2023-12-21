@@ -1,6 +1,9 @@
 {
     "name": "thielander/vindat",
+    "description": "The thielander/vindat package provides a streamlined integration with DAT Group's vehicle data services. This package simplifies interactions with various SOAP-based web services offered by DAT Group, focusing primarily on VIN (Vehicle Identification Number) queries.",
     "type": "composer-plugin",
+    "homepage": "https://www.linkedin.com/in/thielander/",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Thielander\\Vindat\\": "src/"
@@ -12,5 +15,9 @@
             "email": "mail@alexanderthiele.de"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.2"
+    }
 }
+
+
